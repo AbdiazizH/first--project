@@ -7,4 +7,5 @@
 Here is a working live demo:
 
 
-
+## Mobile support
+The  website is compatible with devices of all sizes 
